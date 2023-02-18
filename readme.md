@@ -8,4 +8,4 @@ npm run dev
 
 ## Postman Collection
 
-The request made for this exam are inside the folder _Exam_
+The requests made for this exam are inside the folder _Exam_
